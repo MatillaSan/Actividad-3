@@ -1,7 +1,10 @@
 #Trabajad o morid gusanos >:)
 
-input("Dame tu nombre: ")
-input("Dame tu direccion no por nada he >:) :")
-input("Dame tu DNI: ")
-input("En que ciudad vives?: ")
-
+nombre =input("Dame tu nombre: ")
+date = input("Dame dame: ")
+direccion= input("Dame tu direccion no por nada he >:) :")
+tel = input("Dame dame: ")
+DNI = input("Dame tu DNI: ")
+cp = input("Dame dame: ")
+Ciudad= input("En que ciudad vives?: ")
+country = input("Dame dame tu pais: ")
